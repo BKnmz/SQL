@@ -1,2 +1,2 @@
 # SQL
-SQL_Scripts
+This repo contains SQL scripts for data analysi projects. 
